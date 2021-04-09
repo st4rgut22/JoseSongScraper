@@ -1,0 +1,9 @@
+Cumulative return of the benchmark and portfolio
+theory: 1312020
+benchmark: 991660
+Stdev of daily returns of benchmark and portfolio
+theory: 85059.917368
+benchmark: 4169.365886
+Mean of daily returns of benchmark and portfolio
+theory: 1145259
+benchmark: 997435.912698
